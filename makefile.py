@@ -18,7 +18,7 @@ if __name__ == "__main__":
         elif main_option == "scene":
             print("The process of creating an Scene file will start")
         else:
-            print("Cannot read the option")
+            print("Cannot read the option, please read the documentation")
     except IndexError as e:
         print("Cannot recivied any param, please read the documentation")
         
