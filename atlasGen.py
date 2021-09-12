@@ -1,2 +1,5 @@
 print("Generador de archivos atlas")
-print("Spoken")
+print("Se debe colocar")
+print("Se debe colocar")
+print("Se debe colocar")
+print("Se debe colocar")
