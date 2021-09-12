@@ -4,7 +4,7 @@ print("--------------------------------------------------")
 print("File generator for Phaser 3 - By Gabriel Galindo")
 print("Bogotá - Col - 2021 - Sep")
 print("v.0.1")
-print("--------------------------------------------------")
+
 
 
 main_option = None
